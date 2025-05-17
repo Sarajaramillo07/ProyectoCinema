@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ClbGg3zTi4w=",
+  "dgSpecHash": "uvPJMOy2FYI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACIÓN\\SegundaEntregaCinema\\Lib_Dominio\\Lib_Dominio.csproj",
+  "projectFilePath": "C:\\Users\\ISABELLA\\Downloads\\8-10 Mar-Jue Isabella Cordoba- Sara Jaramillo (1)\\8-10 Mar-Jue Isabella Cordoba- Sara Jaramillo\\Lib_Dominio\\Lib_Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\La Enana\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\ISABELLA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -4411,23 +4411,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\La Enana\\.nuget\\packages\\": {},
+    "C:\\Users\\ISABELLA\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACIÓN\\SegundaEntregaCinema\\Lib_Repositorio\\Lib_Repositorio.csproj",
+      "projectUniqueName": "C:\\Users\\ISABELLA\\Downloads\\8-10 Mar-Jue Isabella Cordoba- Sara Jaramillo (1)\\8-10 Mar-Jue Isabella Cordoba- Sara Jaramillo\\Lib_Repositorio\\Lib_Repositorio.csproj",
       "projectName": "Lib_Repositorio",
-      "projectPath": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACIÓN\\SegundaEntregaCinema\\Lib_Repositorio\\Lib_Repositorio.csproj",
-      "packagesPath": "C:\\Users\\La Enana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACIÓN\\SegundaEntregaCinema\\Lib_Repositorio\\obj\\",
+      "projectPath": "C:\\Users\\ISABELLA\\Downloads\\8-10 Mar-Jue Isabella Cordoba- Sara Jaramillo (1)\\8-10 Mar-Jue Isabella Cordoba- Sara Jaramillo\\Lib_Repositorio\\Lib_Repositorio.csproj",
+      "packagesPath": "C:\\Users\\ISABELLA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ISABELLA\\Downloads\\8-10 Mar-Jue Isabella Cordoba- Sara Jaramillo (1)\\8-10 Mar-Jue Isabella Cordoba- Sara Jaramillo\\Lib_Repositorio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\La Enana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ISABELLA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4443,8 +4443,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACIÓN\\SegundaEntregaCinema\\lib_dominio\\lib_dominio.csproj": {
-              "projectPath": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACIÓN\\SegundaEntregaCinema\\lib_dominio\\lib_dominio.csproj"
+            "C:\\Users\\ISABELLA\\Downloads\\8-10 Mar-Jue Isabella Cordoba- Sara Jaramillo (1)\\8-10 Mar-Jue Isabella Cordoba- Sara Jaramillo\\lib_dominio\\lib_dominio.csproj": {
+              "projectPath": "C:\\Users\\ISABELLA\\Downloads\\8-10 Mar-Jue Isabella Cordoba- Sara Jaramillo (1)\\8-10 Mar-Jue Isabella Cordoba- Sara Jaramillo\\lib_dominio\\lib_dominio.csproj"
             }
           }
         }
@@ -4510,7 +4510,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
